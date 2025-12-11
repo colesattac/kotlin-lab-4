@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Базовая тема приложения, используемая для экрана-заставки
+    и компонентов на основе XML. Для Jetpack Compose эта тема
+    не используется, вместо нее работает CityGuideTheme.
+    -->
+    <style name="Theme.CityGuide" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

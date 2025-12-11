@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Базовая тема приложения для ночного режима.
+    -->
+    <style name="Theme.CityGuide" parent="android:Theme.Material.NoActionBar" />
+</resources>
+    

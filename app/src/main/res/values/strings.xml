@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Краков: Путеводитель</string>
+    <string name="back_button">Назад</string>
+    <string name="places_list">Список мест</string>
+    <string name="place_details">Детали</string>
+    <string name="place_not_found">Информация о месте не найдена.</string>
+    <string name="about_app">О приложении</string>
+</resources>
